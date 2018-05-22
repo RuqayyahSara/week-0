@@ -1,0 +1,90 @@
+a{
+    float: left;
+   display: inline-block;
+    margin-right:10px;
+    margin-left: 10px;
+    color: black;
+}
+img {
+    margin: 0 auto;
+    display:-webkit-box;
+    padding-top: 190px;
+    padding-left: 250px;
+    padding-bottom: 30px;
+ }
+
+.nav {
+    padding-top:15px;
+    float: right;
+
+ }
+button {
+    margin-right: 30px;
+    margin-left: 25px;
+    background-color: whitesmoke;
+    color: gray;
+    block-size: 35px;
+
+ }
+ input {
+    margin: 0 auto;
+    display:-webkit-box;
+    width: 550px;
+    height:35px;
+
+}
+button a {
+    margin-right: 10px;
+    display: -webkit-box;
+    background-color: blue;
+    color:white;
+    font-family: sans-serif, Arial;
+    font-weight: bold;
+
+}
+
+
+.center {
+    margin: 0 auto;
+    margin-left: 420px;
+    margin-right: 200px;
+    padding-top: 30px;
+}
+.india {
+    font-size: 14px;
+    font-family: sans-serif, Arial;
+    padding-top: 120px;
+    padding-left: 32px;
+}
+
+.footer {
+    font-size: 14px;
+}
+
+.ad {padding-top: 20px;
+    padding-left: 22px;
+    font-family: sans-serif, Arial;
+}
+.b {padding-top:20px;
+font-family: sans-serif, Arial;
+}
+
+.about {padding-top:20px;
+font-family: sans-serif, Arial;}
+
+.pri {padding-left: 810px;
+    padding-top: 20px;
+    font-family: sans-serif, Arial;
+
+}
+.terms {
+padding-top: 20px;
+font-family: sans-serif, Arial;
+    b
+}
+
+.set {
+padding-top: 20px;
+    font-family: sans-serif, Arial;
+
+}
